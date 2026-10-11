@@ -1,0 +1,4 @@
+build_ninja/
+*.o
+*.a
+calculator_app
